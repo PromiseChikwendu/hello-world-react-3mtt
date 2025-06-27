@@ -1,12 +1,32 @@
-# React + Vite
+# Hello World React App - 3MTT Mini Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application created as part of the **3MTT Software Development Track**. The goal of the project is to demonstrate understanding of basic React concepts, including project setup, component structure, and JSX rendering.
 
-Currently, two official plugins are available:
+## 📌 Project Objective
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The objective of this project is to:
 
-## Expanding the ESLint configuration
+- Initialize a new React project using **Vite**.
+- Display a semantic `<h1>` heading with the message **"Hello World"**.
+- Use functional components and follow React 18+ best practices.
+- Deploy the finished project to GitHub Pages.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📷 Live Demo
+
+👉 [View the Live Project](https://promisechikwendu.github.io/hello-world-react-3mtt/)
+
+## 🔧 Technologies Used
+
+- **React 18+**
+- **Vite** (for faster development)
+- **JavaScript (ES6+)**
+- **HTML5** & **CSS3**
+- **Git & GitHub Pages** (for deployment)
+
+## 🚀 How to Run Locally
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/PromiseChikwendu/hello-world-react-3mtt.git
+cd hello-world-react-3mtt
